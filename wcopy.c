@@ -17,4 +17,4 @@ int main(int argc, char **argv)
 	SetClipboardData(CF_TEXT, hMem);
 	CloseClipboard();
 	return 0;
-}
+}	
